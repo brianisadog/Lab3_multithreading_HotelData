@@ -1,0 +1,13 @@
+[14:39:38:463 debug] @136 main: 1 locked read, readlock.size() = 1
+[14:39:38:468 debug] @150 main: 1 unlocked read, readlock.size() = 1
+[14:39:38:473 debug] @136 main: 1 locked read, readlock.size() = 1
+[14:39:38:477 debug] @150 main: 1 unlocked read, readlock.size() = 1
+[14:39:38:480 debug] @172 main: 1 locked write, writelock.size() = 1
+[14:39:38:481 debug] @136 main: 1 locked read, readlock.size() = 1
+[14:39:38:483 debug] @150 main: 1 unlocked read, readlock.size() = 0
+[14:39:38:485 debug] @188 main: 1 unlocked write, writelock.size() = 0
+[14:39:38:486 debug] @172 main: 1 locked write, writelock.size() = 1
+[14:39:38:487 debug] @172 main: 1 locked write, writelock.size() = 1
+[14:39:38:487 debug] @188 main: 1 unlocked write, writelock.size() = 1
+[14:39:38:488 debug] @188 main: 1 unlocked write, writelock.size() = 0
+[14:39:38:494 debug] @188 main: 1 unlocked write, writelock.size() = 0
